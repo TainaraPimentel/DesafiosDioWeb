@@ -7,7 +7,7 @@ class Heroi {
 	}
 
 	atacar(){
-		console.log(`O ${tipo} atacou usando ${ataque}`)
+		console.log(`O ${this.tipo} atacou usando ${this.ataque}`)
 	}
 }
 
