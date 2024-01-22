@@ -25,3 +25,14 @@ Ao final deve se exibir uma mensagem:
   ex: mago atacou usando magia
   guerreiro atacou usando espada
  
+## Local desafio neste repositório 
+
+O desafio está na pasta:
+
+Bootcamp_prog_zero >>
+
+Desafio_estrutura_dados_objetos >> EscrevendoClassesJogo.js
+
+
+
+Acompanha um arquivo Readme.md que informa o objetivo e instruções do desafio.

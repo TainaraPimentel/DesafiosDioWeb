@@ -16,3 +16,14 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
+## Local desafio neste repositório 
+
+O desafio está na pasta:
+
+Bootcamp_prog_zero >>
+
+Desafio_estrutura_controle >> classificadorNivelHeroi.js
+
+
+
+Acompanha um arquivo Readme.md que informa o objetivo e instruções do desafio.
